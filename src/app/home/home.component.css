@@ -1,0 +1,84 @@
+h1 {
+  color :floralwhite;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.div-1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #50514f;
+  width: 100%;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.barber-pole-1{
+  position: relative;
+  right: 50px;
+  top: 100px;
+  height: 70px;
+  width: 50px;
+}
+
+.barber-pole-2{
+  position: relative;
+  left: 260px;
+  bottom: 83px;
+  height: 70px;
+  width: 50px;
+}
+
+
+
+img {
+  padding: 5px;
+  height: 50px;
+  width: 50px;
+}
+
+.phone-box {
+  background-color: #7c98b3;
+
+  padding-right: 15px;
+  padding-left: 15px;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  color: floralwhite;
+
+  left: 100px;
+  bottom: 150px;
+
+}
+
+h4 {
+  text-align: center;
+  color: floralwhite;
+  position: relative;
+  bottom: 120px;
+}
+
+.photo-container {
+  background-color: #7c98b3;
+  height: 400px;
+  width: 100%;
+  display: flex;
+}
+
+.carousel-item {
+  width: 75%;
+  height: 75%;
+}
+.shop-statemnet {
+  background-color: red;
+  height: 400px;
+  width: 100%;
+  color: black;
+}
